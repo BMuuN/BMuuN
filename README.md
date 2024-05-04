@@ -6,6 +6,7 @@
 - 🙊 I speak English and Welsh
 - 📢 You can find me on [LinkedIn](https://www.linkedin.com/in/bleddynrichards/) and [Twitter](https://twitter.com/RichardsBleddyn)
 - ♾️ Creator of Azure DevOps [Assembly Info](https://marketplace.visualstudio.com/items?itemName=bleddynrichards.Assembly-Info-Task) extension
+- 🛠️ Tinker on [Thingiverse](https://www.thingiverse.com/bmuun/)
 
 ## 📈 My Statistics
 <p> 
